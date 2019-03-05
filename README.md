@@ -1,2 +1,2 @@
 # tms
-tms is Time Management System for my research.
+tms is Task Management System for me.
